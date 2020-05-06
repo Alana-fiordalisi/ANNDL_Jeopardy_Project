@@ -4,4 +4,4 @@ course taught at DIS: Copenhagen in Spring 2020. The project spans two parts: a 
 the difficulty of Jeopardy! questions, and a neural network that generates novel Jeopardy! questions.
 
 A summary of the project, including an explanation of the structure, results, and next steps can be found 
-[here](https://medium.com/@alana.fiordalisi/neural-networks-for-800-generating-jeopardy-clues-and-predict-their-difficulty-bdb17e25b8a)
+[here](https://medium.com/@alana.fiordalisi/neural-networks-for-800-generating-jeopardy-clues-and-predict-their-difficulty-bdb17e25b8a).
